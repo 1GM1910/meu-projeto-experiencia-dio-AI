@@ -44,8 +44,4 @@ Este repositório contém um resumo das minhas experiências, aprendizados e pro
 - Desenvolver projetos reais de automação de dados
 - Participar de comunidades técnicas no GitHub
 
-## 📫 Contato
-
-- LinkedIn: [linkedin.com/in/guilherme](https://linkedin.com/in/guilherme) *(exemplo)*
-- Email: seuemail@email.com
 
