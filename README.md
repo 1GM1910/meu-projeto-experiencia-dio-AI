@@ -23,10 +23,12 @@ Este repositório contém um resumo das minhas experiências, aprendizados e pro
 
 ## 🖼️ Imagens
 
-Exemplos de certificações ou projetos (na pasta `/images`):
+## 💼 Projeto em Destaque
 
-![Certificado Python]([images/captura1.png](https://github.com/1GM1910/Banco-de-Dados-Universidade))
-![Projeto Power BI](images/captura2.png)
+📂 [Banco de Dados Universidade](https://github.com/1GM1910/Banco-de-Dados-Universidade)
+
+> Repositório com modelo de banco de dados acadêmico, ideal para projetos educacionais e estudos de SQL.
+
 
 ## 🛠️ Tecnologias que tenho utilizado
 
