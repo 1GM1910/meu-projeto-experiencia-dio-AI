@@ -25,7 +25,7 @@ Este repositório contém um resumo das minhas experiências, aprendizados e pro
 
 Exemplos de certificações ou projetos (na pasta `/images`):
 
-![Certificado Python](images/captura1.png)
+![Certificado Python]([images/captura1.png](https://github.com/1GM1910/Banco-de-Dados-Universidade))
 ![Projeto Power BI](images/captura2.png)
 
 ## 🛠️ Tecnologias que tenho utilizado
